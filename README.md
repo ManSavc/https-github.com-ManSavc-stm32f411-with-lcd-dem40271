@@ -7,3 +7,8 @@ First, we create ' new stm project' and turn on 'GPIO PINS':
 Add 'lcd.h' and 'lcd.c' libraries to project 'Inc' folder:
 
 ![lcdh_and_lcdc](https://github.com/user-attachments/assets/fef783d6-4b21-44b1-ad5f-e30a05e17892)
+
+and see the result:
+
+https://github.com/user-attachments/assets/edb14bcc-735a-44a0-8494-2bc078d83c38
+
